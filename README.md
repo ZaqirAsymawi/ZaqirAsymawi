@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Muhammad Zaqir Asymawi, I'm from Gombak, Selangor.
+I'm currently studying Bachelor's Degree in Computer Science with Honours at UITM SA, Malaysia.
 <!--
 **ZaqirAsymawi/ZaqirAsymawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
