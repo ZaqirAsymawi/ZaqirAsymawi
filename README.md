@@ -11,7 +11,7 @@ Java, Canva, Html and CSS, Php, JavaScript, Github
 Projects
 Project name: Adaptive Java learning progress trackers with predictive analysis for computer science student.
 Contact
-LinkedIn: [[your profile link]](https://www.linkedin.com/in/muhammad-zaqir-asymawi-shamsul-1428673b0/?isSelfProfile=true)
+LinkedIn: [[LinkedIn profile link]](https://www.linkedin.com/in/muhammad-zaqir-asymawi-shamsul-1428673b0/?isSelfProfile=true)
 Email: zaqirasymawishamsul@gmail.com
 
 <!--
