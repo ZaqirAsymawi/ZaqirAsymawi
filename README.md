@@ -1,17 +1,20 @@
-## Hi there 👋
+## Hi there
 My name is Muhammad Zaqir Asymawi, I'm from Gombak, Selangor.
 I'm currently studying Bachelor's Degree in Computer Science with Honours at UITM SA, Malaysia.
+Hi  👋, I'm MUHAMMAD ZAQIR ASYMAWI BIN SHAMSUL, I'm a Computer Science student at UiTM interested in making Web, System, AI and Programming education platform.
+
+About me
+Studying: CDCS230 Bachelor's Degree in Computer Science with Honours, UiTM
+Currently learning: Mobile Programming
+My FYP area: Education
+Skills and tools
+Java, Canva, Html and CSS, Php, JavaScript, Github
+
+Projects
+Project name: Adaptive Java learning progress trackers with predictive analysis for computer science student.
+Contact
+LinkedIn: [[your profile link]](https://www.linkedin.com/in/muhammad-zaqir-asymawi-shamsul-1428673b0/?isSelfProfile=true)
+Email: zaqirasymawishamsul@gmail.com
+
 <!--
 **ZaqirAsymawi/ZaqirAsymawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
