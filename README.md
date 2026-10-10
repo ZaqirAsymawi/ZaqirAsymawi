@@ -1,6 +1,4 @@
-## Hi there
-My name is Muhammad Zaqir Asymawi, I'm from Gombak, Selangor.
-I'm currently studying Bachelor's Degree in Computer Science with Honours at UITM SA, Malaysia.
+## Hi there 👋
 Hi  👋, I'm MUHAMMAD ZAQIR ASYMAWI BIN SHAMSUL, I'm a Computer Science student at UiTM interested in making Web, System, AI and Programming education platform.
 
 About me
